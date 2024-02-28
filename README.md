@@ -2,6 +2,10 @@
 
 GOE REST API is built using NodeJS with Express and MySQL as the backend for Garden of Eve ecommerce appplication. The GOE API currently deployed on AWS Elastic Beanstalk.
 
+## Deployed in
+* AWS Elastic Beanstalk (with CodePipeline)
+* AWS RDS
+  
 ## Built with
 * NodeJS 
 * Express

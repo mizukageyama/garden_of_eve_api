@@ -1,4 +1,4 @@
-## Garden of Eve API
+<img width="1011" alt="image" src="https://github.com/mizukageyama/garden_of_eve_api/assets/63276829/18bcecbf-db89-4250-af6a-60a61a2d2221">## Garden of Eve API
 
 GOE REST API is built using NodeJS with Express and MySQL as the backend for Garden of Eve ecommerce appplication. The GOE API currently deployed on AWS Elastic Beanstalk.
 
@@ -16,7 +16,7 @@ GOE REST API is built using NodeJS with Express and MySQL as the backend for Gar
 
 ## Sample
 * GET Products - 
-http://goerestapi-env-1.eba-endpnfax.ap-south-1.elasticbeanstalk.com/api/products?page=1&limit=3
+http://goe-api.ap-south-1.elasticbeanstalk.com/api/products?page=1&limit=3
 ```
 {
     "success": 1,
